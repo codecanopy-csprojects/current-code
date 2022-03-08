@@ -1,2 +1,2 @@
 language='python3'
-run='git pull; clear && ./runner.sh;'
+run='git pull; chmod +x runner.sh; clear && ./runner.sh;'
