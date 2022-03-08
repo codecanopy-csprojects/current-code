@@ -1,2 +1,2 @@
 language='python3'
-run='git pull; clear; python3 binary-search.py;'
+run='git pull; clear; python3 insertion.py;'
