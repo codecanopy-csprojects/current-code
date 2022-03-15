@@ -1,2 +1,2 @@
 #!/bin/bash
-python3 grade_calc.py
+python3 binary_search.py
