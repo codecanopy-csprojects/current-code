@@ -1,2 +1,2 @@
 #!/bin/bash
-python3 
+python3 binary_search.py
